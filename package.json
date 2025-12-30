@@ -1,7 +1,7 @@
 {
   "name": "@boringnode/pluralize",
   "description": "A TypeScript port of Doctrine Inflector to pluralize and singularize English words",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "engines": {
     "node": ">=20.6"
   },
